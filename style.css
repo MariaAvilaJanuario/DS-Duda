@@ -1,16 +1,9 @@
-body {
+* {
     margin: 10px;
     padding: 0;
+    box-sizing: border-box;
 }
 
-h1 {
-    border: 2px solid rgb(75, 28, 77);
-    margin: 1px;
-    padding: 20px;
-    
+body {
+    background-color: rgb(252, 197, 244);
 }
-    
-div {
-    margin:5px;
-}
-    
