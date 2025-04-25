@@ -159,3 +159,9 @@ h4 {
     display: block;
     margin: 0px auto;
 }
+
+.aluna {
+    text-align: left;
+    font-size: 20px;
+    color: #7c4f58;
+}
