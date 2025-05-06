@@ -1,0 +1,167 @@
+* {
+    margin: 10px;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #fcecf3;
+}
+
+.logo {
+    width: 250px;
+    display: block;
+    margin: 0px auto;
+}
+
+.menu {
+    display: flex;
+    justify-content:space-around;
+    background-color: #fdd2db;
+}
+
+.menu a{
+    text-decoration: none;
+    color: #7c4f58;
+    font-size: 25px;
+    font-weight: bold;
+    line-height: 45px;
+}
+
+.menu a:hover {
+    color: #533239;
+}
+
+h1 {
+    text-align: center;
+    font-size: 55px ;
+    color:#7c4f58
+}
+
+h2 {
+    text-align: left;
+    font-size: 35px;
+    color: #7c4f58;
+}
+
+p {
+    font-size: 25px;
+    color: #051a23;
+    padding: 10px;
+    border: #fdd2db;
+    border-style: solid;
+    border-radius: 20px;
+    background-color: #fdd2db;
+}
+
+.gatoadoção {
+    display: block;
+    margin: 0px auto;
+    width: 400px;
+}
+
+h3 {
+    text-align: center;
+    font-size: 35px;
+    color: #7c4f58;
+   
+}
+
+.div-video {
+    display: block;
+    margin: 0px auto;
+    border:#e2b4be;
+    border-style:solid;
+    background-color:#e2b4be ;
+    width: 610px;
+}
+
+.video {
+    display: block;
+    margin: 20px auto;
+}
+
+.fotos {
+    display: flex;
+    justify-content: space-around;
+    flex-flow: row wrap;
+}
+
+.borda1 {
+    border:#e2b4be;
+    border-style:solid;
+    background-color:#e2b4be ;
+    width: 300px;
+}
+
+.cafegato1 {
+    width: 270px;
+}
+
+.borda2 {
+    border:#e2b4be;
+    border-style:solid;
+    background-color:#e2b4be ;
+    width: 300px;
+}
+
+.cafegato2 {
+    width: 270px;
+}
+
+.borda3 {
+    border:#e2b4be;
+    border-style:solid;
+    background-color:#e2b4be ;
+    width: 300px;
+}
+
+.cafegato3 {
+    width: 270px;
+}
+
+.borda4 {
+    border:#e2b4be;
+    border-style:solid;
+    background-color:#e2b4be ;
+    width: 300px;
+}
+
+.cafegato4 {
+    width: 270px;
+}
+
+h4 {
+    text-align: center;
+    font-size: 35px;
+    color: #7c4f58;
+}
+
+.div-localização {
+    display: block;
+    margin: 0px auto;
+    border:#051a23;
+    border-style:solid;
+    background-color:#051a23 ;
+    width: 659px;
+}
+
+.localização {
+    display: block;
+    margin: 20px auto;
+}
+
+.banner {
+    width: 90%; 
+    height: auto;
+    max-width: 1250px;
+    max-height: 370px;
+    display: block;
+    margin: 0px auto;
+}
+
+.aluna {
+    text-align: left;
+    font-size: 20px;
+    color: #7c4f58;
+}
